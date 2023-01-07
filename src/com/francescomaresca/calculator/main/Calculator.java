@@ -1,5 +1,6 @@
 /*
 Francesco Maresca's Maresca Math Tools. 
+(Calculator class)
 Copyright (C) 2023 Francesco Maresca (@programmerhelloworld). All rights reserved.
 */
 package com.francescomaresca.calculator.main;
